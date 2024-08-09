@@ -1610,7 +1610,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section, article {
-		margin-bottom: 0em;
+		margin-bottom: 3em;
 	}
 
 	section > :last-child,
@@ -2105,7 +2105,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 0em 0 10em 0;
+		padding: 10em 0 10em 0;
 		text-align: left;
 	}
 
@@ -2208,7 +2208,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 0em 0;
+				padding: 8em 0;
 			}
 
 				#top .image {
@@ -2227,7 +2227,7 @@ input, select, textarea {
 
 			#top {
 				text-align: center;
-				padding: 0em 0;
+				padding: 5em 0;
 			}
 
 				#top .image {
@@ -2406,7 +2406,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 0em 0;
+				padding: 3em 0;
 			}
 
 				#top .image {
