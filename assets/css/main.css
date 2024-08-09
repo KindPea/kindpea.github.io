@@ -2196,19 +2196,19 @@ input, select, textarea {
 		/* Wrappers */
 
 			.wrapper {
-				padding: 5em 0 5em 0;
+				padding: 0em 0 0em 0;
 				text-align: center;
 			}
 
 				.wrapper.style4 .row-special {
-					margin: 2em 0 0 0;
-					padding: 2em 0 2em 0;
+					margin: 0em 0 0 0;
+					padding: 0em 0 0em 0;
 				}
 
 		/* Articles */
 
 			#top {
-				padding: 8em 0;
+				padding: 0em 0;
 			}
 
 				#top .image {
@@ -2227,11 +2227,11 @@ input, select, textarea {
 
 			#top {
 				text-align: center;
-				padding: 5em 0;
+				padding: 0em 0;
 			}
 
 				#top .image {
-					margin: 0 auto 2em auto;
+					margin: 0 auto 0em auto;
 				}
 
 	}
