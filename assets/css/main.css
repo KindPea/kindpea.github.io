@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		padding-top: 3.5em;
+		padding-top: 1em;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -197,7 +197,7 @@ input, select, textarea {
 		border-top-color: rgba(0, 0, 0, 0.35);
 		box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
 		height: 1px;
-		margin: 3em 0;
+		margin: 1em 0;
 	}
 
 	p, ul, ol, dl, table {
@@ -205,7 +205,7 @@ input, select, textarea {
 	}
 
 	header {
-		margin: 0 0 3em 0;
+		margin: 0 0 1em 0;
 	}
 
 		header > p {
@@ -214,7 +214,7 @@ input, select, textarea {
 		}
 
 	footer {
-		margin: 3em 0 0 0;
+		margin: 1em 0 0 0;
 	}
 
 		footer > p {
@@ -1610,7 +1610,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section, article {
-		margin-bottom: 3em;
+		margin-bottom: 1em;
 	}
 
 	section > :last-child,
@@ -1918,7 +1918,7 @@ input, select, textarea {
 	}
 
 		.box.style1 {
-			padding: 3em 2em 3.5em 2em;
+			padding: 1em 1em 1em 1em;
 		}
 
 			.box.style1 h3 {
@@ -1932,7 +1932,7 @@ input, select, textarea {
 		.box.style2 .image {
 			position: relative;
 			left: 2em;
-			top: 2em;
+			top: 1em;
 			margin: -4em 0 4em -4em;
 			width: auto;
 		}
@@ -1989,7 +1989,7 @@ input, select, textarea {
 	.wrapper {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		padding: 8em 0 8em 0;
+		padding: 1em 0 1em 0;
 		text-align: center;
 	}
 
@@ -2105,7 +2105,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 5em 0 1em 0;
 		text-align: left;
 	}
 
@@ -2190,19 +2190,19 @@ input, select, textarea {
 			}
 
 			header {
-				margin: 0 0 4em 0;
+				margin: 0 0 1m 0;
 			}
 
 		/* Wrappers */
 
 			.wrapper {
-				padding: 5em 0 5em 0;
+				padding: 1em 0 5em 0;
 				text-align: center;
 			}
 
 				.wrapper.style4 .row-special {
-					margin: 2em 0 0 0;
-					padding: 2em 0 2em 0;
+					margin: 1em 0 0 0;
+					padding: 1em 0 2em 0;
 				}
 
 		/* Articles */
@@ -2263,7 +2263,7 @@ input, select, textarea {
 			}
 
 			header {
-				margin: 0 0 2em 0;
+				margin: 0 0 1em 0;
 			}
 
 				header > p {
@@ -2381,7 +2381,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			.wrapper {
-				padding: 3em 0;
+				padding: 1em 0;
 				text-align: center;
 			}
 
