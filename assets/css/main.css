@@ -2105,7 +2105,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 1em 0 1em 0;
+		padding: 5em 0 1em 0;
 		text-align: left;
 	}
 
@@ -2196,7 +2196,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			.wrapper {
-				padding: 1em 0 5em 0;
+				padding: 5em 0 5em 0;
 				text-align: center;
 			}
 
@@ -2208,7 +2208,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 1em 0;
+				padding: 5em 0;
 			}
 
 				#top .image {
